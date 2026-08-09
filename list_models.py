@@ -9,7 +9,6 @@ API_KEY = os.getenv("GEMINI_API_KEY")
 if not API_KEY:
     print("ERROR: GEMINI_API_KEY not found.")
     exit()
-
 client = genai.Client(api_key=API_KEY)
 
 print("\nAvailable Gemini Models")
