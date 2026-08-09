@@ -16,14 +16,14 @@ The application allows users to enter code, select a programming language, and r
 💻 Multiple Programming Languages
 
 The project can be extended to support languages such as:
-Python
-Java
-C
-C++
-JavaScript
-HTML
-CSS
-SQL
+1.Python
+2.Java
+3.C
+4.C++
+5.JavaScript
+6.HTML
+7.CSS
+8.SQL
 
 🧠 How It Works:
 User enters code
