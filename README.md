@@ -1,7 +1,7 @@
-🤖 AI-Code-Debugger-Gen-AI
+🤖 AI-Code-Debugger-Gen-AI:
 An AI-powered code debugging assistant that uses Generative AI to analyze source code, identify errors, explain the problems, and suggest corrected code.
 
-🚀 Overview
+🚀 Overview:
 AI-Code-Debugger-Gen-AI is a smart coding assistant designed to help students, beginners, and developers debug their programs faster.
 The application allows users to enter code, select a programming language, and receive AI-generated debugging assistance including:
 
@@ -25,7 +25,7 @@ HTML
 CSS
 SQL
 
-🧠 How It Works
+🧠 How It Works:
 User enters code
        ↓
 Selects programming language
@@ -40,7 +40,7 @@ Generates corrected code
        ↓
 User learns and improves
 
-⚙️ Technologies Used
+⚙️ Technologies Used:
 🐍 Python
 🎈 Streamlit
 🤖 Generative AI API
