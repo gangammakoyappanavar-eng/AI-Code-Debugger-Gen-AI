@@ -5,7 +5,7 @@ An AI-powered code debugging assistant that uses Generative AI to analyze source
 AI-Code-Debugger-Gen-AI is a smart coding assistant designed to help students, beginners, and developers debug their programs faster.
 The application allows users to enter code, select a programming language, and receive AI-generated debugging assistance including:
 
-✨ Features
+✨ Features:
 🐛 Bug Detection
 🔧 Code Fixing
 💡 Code Explanation
@@ -52,23 +52,23 @@ User learns and improves
 1. Clone the Repository
 git clone https://github.com/your-username/AI-Code-Debugger.git
 
-2. Open the Project Folder
+2. Open the Project Folder:
 cd AI-Code-Debugger
 
-3. Create a Virtual Environment
+3. Create a Virtual Environment:
 python -m venv venv
 
-4. Activate the Virtual Environment
+4. Activate the Virtual Environment:
 Windows:
 venv/Scripts/activate
 
-5. Install Required Libraries
+5. Install Required Libraries:
 pip install -r requirements.txt
 
 6. Add your Gemini API key:
 GEMINI_API_KEY = "your_api_key_here"
 
-7. Run the Application
+7. Run the Application:
 streamlit run app.py
 
 The application will open in your browser.
