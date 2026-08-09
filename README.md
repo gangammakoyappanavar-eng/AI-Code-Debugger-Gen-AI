@@ -73,10 +73,10 @@ streamlit run app.py
 
 The application will open in your browser.
 
-👩‍💻 Author
+👩‍💻 Author:
 Gangamma Koyappanavar
 
-⭐ Support
+⭐ Support:
 If you find this project useful, consider giving the repository a ⭐ on GitHub!
 
 AI-Code-Debugger-Gen-AI — Debug smarter. Learn faster. Code better. 🚀
